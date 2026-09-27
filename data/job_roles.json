@@ -1,0 +1,657 @@
+[
+  {
+    "id": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "industry": "IT & Software",
+    "experience_level": "Entry to Mid",
+    "description": "Builds end-to-end web applications covering responsive frontends, server-side APIs, database management, and cloud deployments.",
+    "required_skills": [
+      {
+        "skill_id": "html",
+        "importance": "high"
+      },
+      {
+        "skill_id": "css",
+        "importance": "high"
+      },
+      {
+        "skill_id": "javascript",
+        "importance": "high"
+      },
+      {
+        "skill_id": "react",
+        "importance": "high"
+      },
+      {
+        "skill_id": "node.js",
+        "importance": "high"
+      },
+      {
+        "skill_id": "sql",
+        "importance": "high"
+      },
+      {
+        "skill_id": "git",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "rest apis",
+        "importance": "high"
+      }
+    ],
+    "preferred_skills": [
+      "typescript",
+      "docker",
+      "tailwind",
+      "mongodb",
+      "aws"
+    ],
+    "roadmap": [
+      "HTML5 & CSS3 Basics",
+      "Modern JavaScript (ES6+)",
+      "Frontend with React & State",
+      "Backend with Node.js & Express",
+      "Relational Databases with SQL",
+      "RESTful API Integration",
+      "Version Control with Git",
+      "Deployment to Cloud Platform"
+    ]
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "industry": "Analytics & BFSI",
+    "experience_level": "Entry Level",
+    "description": "Collects, cleans, and translates complex business metrics into visual dashboards and actionable management insights.",
+    "required_skills": [
+      {
+        "skill_id": "excel",
+        "importance": "high"
+      },
+      {
+        "skill_id": "sql",
+        "importance": "high"
+      },
+      {
+        "skill_id": "python",
+        "importance": "high"
+      },
+      {
+        "skill_id": "power bi",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "pandas",
+        "importance": "high"
+      },
+      {
+        "skill_id": "communication",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "tableau",
+      "numpy",
+      "r",
+      "problem solving"
+    ],
+    "roadmap": [
+      "Advanced Excel & Pivot Modeling",
+      "SQL Querying & Data Extraction",
+      "Python for Data Analysis (Pandas/NumPy)",
+      "BI Dashboarding with Power BI/Tableau",
+      "Statistical Hypothesis Testing",
+      "Business Storytelling & Presentation"
+    ]
+  },
+  {
+    "id": "ai-ml-engineer",
+    "title": "AI/ML Engineer",
+    "industry": "AI & DeepTech",
+    "experience_level": "Mid Level",
+    "description": "Researches, constructs, trains, and deploys predictive machine learning and deep learning neural models at scale.",
+    "required_skills": [
+      {
+        "skill_id": "python",
+        "importance": "high"
+      },
+      {
+        "skill_id": "machine learning",
+        "importance": "high"
+      },
+      {
+        "skill_id": "deep learning",
+        "importance": "high"
+      },
+      {
+        "skill_id": "pytorch",
+        "importance": "high"
+      },
+      {
+        "skill_id": "scikit-learn",
+        "importance": "high"
+      },
+      {
+        "skill_id": "sql",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "nlp",
+      "computer vision",
+      "llm",
+      "docker",
+      "aws"
+    ],
+    "roadmap": [
+      "Python Scientific Stack (NumPy/Pandas)",
+      "Linear Algebra & Probability",
+      "Classical ML with Scikit-Learn",
+      "Deep Learning Foundations (PyTorch/TF)",
+      "NLP & LLM Architectures",
+      "MLOps & Model Deployment"
+    ]
+  },
+  {
+    "id": "cloud-engineer",
+    "title": "Cloud Engineer",
+    "industry": "Cloud & Infrastructure",
+    "experience_level": "Entry to Mid",
+    "description": "Architects, provisions, and maintains reliable, fault-tolerant, and secure cloud environments across enterprise workloads.",
+    "required_skills": [
+      {
+        "skill_id": "aws",
+        "importance": "high"
+      },
+      {
+        "skill_id": "linux",
+        "importance": "high"
+      },
+      {
+        "skill_id": "docker",
+        "importance": "high"
+      },
+      {
+        "skill_id": "networking",
+        "importance": "high"
+      },
+      {
+        "skill_id": "shell",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "git",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "kubernetes",
+      "terraform",
+      "azure",
+      "cloud security"
+    ],
+    "roadmap": [
+      "Linux System Administration",
+      "Computer Networking (TCP/IP, VPC, DNS)",
+      "Cloud Core Services (AWS Compute/Storage)",
+      "Containerization with Docker",
+      "Infrastructure as Code (Terraform)",
+      "Cloud Security Best Practices"
+    ]
+  },
+  {
+    "id": "devops-engineer",
+    "title": "DevOps Engineer",
+    "industry": "IT & Software",
+    "experience_level": "Mid Level",
+    "description": "Bridges development and IT operations through automated CI/CD pipelines, container orchestration, and continuous monitoring.",
+    "required_skills": [
+      {
+        "skill_id": "docker",
+        "importance": "high"
+      },
+      {
+        "skill_id": "kubernetes",
+        "importance": "high"
+      },
+      {
+        "skill_id": "ci/cd",
+        "importance": "high"
+      },
+      {
+        "skill_id": "linux",
+        "importance": "high"
+      },
+      {
+        "skill_id": "git",
+        "importance": "high"
+      },
+      {
+        "skill_id": "terraform",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "aws",
+      "shell",
+      "python",
+      "ansible"
+    ],
+    "roadmap": [
+      "Linux & Bash Automation",
+      "Git & Branching Strategies",
+      "Docker Container Engineering",
+      "CI/CD Pipeline Building",
+      "Kubernetes Orchestration & Helm",
+      "Infrastructure as Code & Monitoring"
+    ]
+  },
+  {
+    "id": "cybersecurity-analyst",
+    "title": "Cybersecurity Analyst",
+    "industry": "Security & Defense",
+    "experience_level": "Entry to Mid",
+    "description": "Monitors network activities, identifies vulnerabilities, defends against cyber incursions, and ensures regulatory compliance.",
+    "required_skills": [
+      {
+        "skill_id": "cybersecurity",
+        "importance": "high"
+      },
+      {
+        "skill_id": "networking",
+        "importance": "high"
+      },
+      {
+        "skill_id": "linux",
+        "importance": "high"
+      },
+      {
+        "skill_id": "cloud security",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "problem solving",
+        "importance": "high"
+      }
+    ],
+    "preferred_skills": [
+      "ethical hacking",
+      "python",
+      "shell"
+    ],
+    "roadmap": [
+      "Network Security & Protocols",
+      "Linux Server Hardening",
+      "Threat Analysis & SOC Operations",
+      "Vulnerability Scanning & VAPT",
+      "Cloud Security Policies",
+      "Incident Response Procedures"
+    ]
+  },
+  {
+    "id": "data-scientist",
+    "title": "Data Scientist",
+    "industry": "Analytics & AI",
+    "experience_level": "Mid Level",
+    "description": "Combines statistics, mathematical modeling, and machine learning to extract hidden signals from big data.",
+    "required_skills": [
+      {
+        "skill_id": "python",
+        "importance": "high"
+      },
+      {
+        "skill_id": "sql",
+        "importance": "high"
+      },
+      {
+        "skill_id": "data science",
+        "importance": "high"
+      },
+      {
+        "skill_id": "machine learning",
+        "importance": "high"
+      },
+      {
+        "skill_id": "pandas",
+        "importance": "high"
+      },
+      {
+        "skill_id": "communication",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "spark",
+      "deep learning",
+      "r",
+      "tableau"
+    ],
+    "roadmap": [
+      "Data Wrangling with Pandas",
+      "Exploratory Data Analysis & Viz",
+      "Inferential Statistics",
+      "Predictive ML Modeling",
+      "Big Data Processing with Spark",
+      "Executive Insights Delivery"
+    ]
+  },
+  {
+    "id": "ui-ux-designer",
+    "title": "UI/UX Designer",
+    "industry": "Design & Products",
+    "experience_level": "Entry Level",
+    "description": "Crafts intuitive digital interfaces, conducts user experience research, and creates design systems.",
+    "required_skills": [
+      {
+        "skill_id": "ui/ux",
+        "importance": "high"
+      },
+      {
+        "skill_id": "figma",
+        "importance": "high"
+      },
+      {
+        "skill_id": "html",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "css",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "problem solving",
+        "importance": "high"
+      }
+    ],
+    "preferred_skills": [
+      "communication",
+      "tailwind"
+    ],
+    "roadmap": [
+      "Design Principles & Typography",
+      "User Research & Journey Mapping",
+      "Wireframing & Information Architecture",
+      "High-Fidelity Prototyping in Figma",
+      "Design Systems & Component Libraries",
+      "Usability Testing & Feedback Loops"
+    ]
+  },
+  {
+    "id": "frontend-developer",
+    "title": "Frontend Developer",
+    "industry": "IT & Software",
+    "experience_level": "Entry Level",
+    "description": "Creates responsive, accessible, and performant user-facing web applications.",
+    "required_skills": [
+      {
+        "skill_id": "html",
+        "importance": "high"
+      },
+      {
+        "skill_id": "css",
+        "importance": "high"
+      },
+      {
+        "skill_id": "javascript",
+        "importance": "high"
+      },
+      {
+        "skill_id": "react",
+        "importance": "high"
+      },
+      {
+        "skill_id": "tailwind",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "git",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "typescript",
+      "next.js",
+      "redux"
+    ],
+    "roadmap": [
+      "Semantic HTML5 & Modern CSS",
+      "DOM Manipulation & Async JS",
+      "React Component Lifecycle",
+      "Tailwind Design Implementation",
+      "State Management & API Fetching",
+      "Frontend Testing & Web Performance"
+    ]
+  },
+  {
+    "id": "backend-developer",
+    "title": "Backend Developer",
+    "industry": "IT & Software",
+    "experience_level": "Entry Level",
+    "description": "Constructs resilient server architectures, high-throughput microservices, and database pipelines.",
+    "required_skills": [
+      {
+        "skill_id": "python",
+        "importance": "high"
+      },
+      {
+        "skill_id": "fastapi",
+        "importance": "high"
+      },
+      {
+        "skill_id": "sql",
+        "importance": "high"
+      },
+      {
+        "skill_id": "rest apis",
+        "importance": "high"
+      },
+      {
+        "skill_id": "git",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "postgresql",
+      "redis",
+      "docker",
+      "microservices"
+    ],
+    "roadmap": [
+      "Backend Language Fundamentals",
+      "Relational Database Design & Indexing",
+      "RESTful API Architecture",
+      "Authentication & Security",
+      "Caching with Redis",
+      "Containerized Deployment"
+    ]
+  },
+  {
+    "id": "software-developer",
+    "title": "Software Developer (General)",
+    "industry": "IT & Software",
+    "experience_level": "Entry Level",
+    "description": "Builds robust software modules, executes unit testing, and works across software engineering lifecycles.",
+    "required_skills": [
+      {
+        "skill_id": "java",
+        "importance": "high"
+      },
+      {
+        "skill_id": "sql",
+        "importance": "high"
+      },
+      {
+        "skill_id": "git",
+        "importance": "high"
+      },
+      {
+        "skill_id": "problem solving",
+        "importance": "high"
+      }
+    ],
+    "preferred_skills": [
+      "c++",
+      "spring",
+      "docker",
+      "rest apis"
+    ],
+    "roadmap": [
+      "Core Data Structures & Algorithms",
+      "Object-Oriented Programming (Java/C++)",
+      "Database Management Systems",
+      "Git & Agile Workflows",
+      "Unit Testing & Code Quality"
+    ]
+  },
+  {
+    "id": "product-manager",
+    "title": "Associate Product Manager",
+    "industry": "Product Management",
+    "experience_level": "Entry to Mid",
+    "description": "Defines product roadmaps, gathers customer requirements, and coordinates engineering and design teams.",
+    "required_skills": [
+      {
+        "skill_id": "project management",
+        "importance": "high"
+      },
+      {
+        "skill_id": "communication",
+        "importance": "high"
+      },
+      {
+        "skill_id": "problem solving",
+        "importance": "high"
+      },
+      {
+        "skill_id": "excel",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "leadership",
+        "importance": "high"
+      }
+    ],
+    "preferred_skills": [
+      "sql",
+      "ui/ux",
+      "power bi"
+    ],
+    "roadmap": [
+      "Product Discovery & User Personas",
+      "Agile & Scrum Sprints",
+      "Data-Informed Metrics (KPIs/OKRs)",
+      "Feature Prioritization Frameworks",
+      "Cross-Functional Leadership"
+    ]
+  },
+  {
+    "id": "business-analyst",
+    "title": "Business Analyst",
+    "industry": "Consulting & Enterprise",
+    "experience_level": "Entry Level",
+    "description": "Translates business operational goals into clear technical specifications and process diagrams.",
+    "required_skills": [
+      {
+        "skill_id": "excel",
+        "importance": "high"
+      },
+      {
+        "skill_id": "sql",
+        "importance": "high"
+      },
+      {
+        "skill_id": "communication",
+        "importance": "high"
+      },
+      {
+        "skill_id": "project management",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "power bi",
+      "tableau",
+      "problem solving"
+    ],
+    "roadmap": [
+      "Business Process Modeling",
+      "Requirements Elicitation & BRD",
+      "Data Extraction with SQL",
+      "KPI Dashboarding",
+      "Stakeholder Communication"
+    ]
+  },
+  {
+    "id": "embedded-systems-engineer",
+    "title": "Embedded Systems Engineer",
+    "industry": "Automotive & Hardware",
+    "experience_level": "Entry to Mid",
+    "description": "Programs firmware and microcontrollers for automotive, medical, and industrial electronics.",
+    "required_skills": [
+      {
+        "skill_id": "c",
+        "importance": "high"
+      },
+      {
+        "skill_id": "c++",
+        "importance": "high"
+      },
+      {
+        "skill_id": "linux",
+        "importance": "medium"
+      },
+      {
+        "skill_id": "problem solving",
+        "importance": "high"
+      }
+    ],
+    "preferred_skills": [
+      "shell",
+      "networking"
+    ],
+    "roadmap": [
+      "Embedded C/C++ Architecture",
+      "Microcontroller Interfacing (GPIO, I2C, SPI)",
+      "Real-Time Operating Systems (RTOS)",
+      "Hardware Debugging & Oscilloscopes",
+      "Firmware Verification"
+    ]
+  },
+  {
+    "id": "iot-engineer",
+    "title": "IoT Engineer",
+    "industry": "Smart Systems & Hardware",
+    "experience_level": "Entry to Mid",
+    "description": "Integrates connected sensor edge devices with cloud analytics and telemetry pipelines.",
+    "required_skills": [
+      {
+        "skill_id": "python",
+        "importance": "high"
+      },
+      {
+        "skill_id": "c",
+        "importance": "high"
+      },
+      {
+        "skill_id": "networking",
+        "importance": "high"
+      },
+      {
+        "skill_id": "aws",
+        "importance": "medium"
+      }
+    ],
+    "preferred_skills": [
+      "linux",
+      "docker",
+      "rest apis"
+    ],
+    "roadmap": [
+      "Edge Sensor Programming",
+      "IoT Protocols (MQTT, CoAP, BLE)",
+      "Cloud IoT Core Telemetry",
+      "Edge Analytics & Security",
+      "End-to-End Smart City Prototype"
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "job-101",
+    "company": "Tata Consultancy Services (TCS)",
+    "title": "Junior Full Stack Engineer",
+    "role_id": "full-stack-developer",
+    "location": "Pune / Hinjewadi",
+    "salary_range": "INR 4.5 - 7.5 LPA",
+    "type": "Full Time",
+    "required_skills": [
+      "react",
+      "node.js",
+      "javascript",
+      "sql"
+    ],
+    "description": "Developing modern citizen portal solutions for Maharashtra e-Governance."
+  },
+  {
+    "id": "job-102",
+    "company": "Tech Mahindra",
+    "title": "Data Analyst - Operations",
+    "role_id": "data-analyst",
+    "location": "Mumbai / Powai",
+    "salary_range": "INR 5.0 - 8.0 LPA",
+    "type": "Full Time",
+    "required_skills": [
+      "excel",
+      "sql",
+      "power bi",
+      "python"
+    ],
+    "description": "Transforming telecom call analytics and consumer telemetry into executive dashboards."
+  },
+  {
+    "id": "job-103",
+    "company": "Persistent Systems",
+    "title": "Cloud & DevOps Associate",
+    "role_id": "cloud-engineer",
+    "location": "Nagpur / MIHAN SEZ",
+    "salary_range": "INR 5.5 - 9.0 LPA",
+    "type": "Full Time",
+    "required_skills": [
+      "aws",
+      "docker",
+      "linux",
+      "networking"
+    ],
+    "description": "Provisioning secure cloud workloads and automated deployment scripts."
+  },
+  {
+    "id": "job-104",
+    "company": "Cognizant",
+    "title": "Associate AI Engineer",
+    "role_id": "ai-ml-engineer",
+    "location": "Pune / Kharadi",
+    "salary_range": "INR 6.5 - 11.0 LPA",
+    "type": "Full Time",
+    "required_skills": [
+      "python",
+      "machine learning",
+      "pytorch",
+      "sql"
+    ],
+    "description": "Training and tuning LLM models and retrieval workflows for enterprise search."
+  },
+  {
+    "id": "job-105",
+    "company": "LTIMindtree",
+    "title": "Cybersecurity SOC Analyst",
+    "role_id": "cybersecurity-analyst",
+    "location": "Navi Mumbai / Airoli",
+    "salary_range": "INR 5.0 - 8.5 LPA",
+    "type": "Full Time",
+    "required_skills": [
+      "cybersecurity",
+      "networking",
+      "linux"
+    ],
+    "description": "Level 1 incident triage and vulnerability assessment monitoring."
+  }
+]

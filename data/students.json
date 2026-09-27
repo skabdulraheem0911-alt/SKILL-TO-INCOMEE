@@ -1,0 +1,186 @@
+[
+  {
+    "id": "std-001",
+    "name": "Aarav Deshmukh",
+    "email": "aarav.deshmukh@coep.ac.in",
+    "institution": "COEP Technological University, Pune",
+    "department": "Computer Engineering",
+    "district": "Pune",
+    "target_role": "full-stack-developer",
+    "skills": [
+      {
+        "skill_id": "html",
+        "proficiency": "Advanced"
+      },
+      {
+        "skill_id": "css",
+        "proficiency": "Advanced"
+      },
+      {
+        "skill_id": "javascript",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "sql",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "python",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "xp": 1450,
+    "completed_courses": [
+      "c3"
+    ],
+    "completed_projects": [
+      "p2"
+    ],
+    "badges": [
+      "SQL Specialist",
+      "Frontend Starter"
+    ]
+  },
+  {
+    "id": "std-002",
+    "name": "Pooja Patil",
+    "email": "pooja.patil@vjti.ac.in",
+    "institution": "VJTI, Mumbai",
+    "department": "Information Technology",
+    "district": "Mumbai City & Suburban",
+    "target_role": "data-analyst",
+    "skills": [
+      {
+        "skill_id": "excel",
+        "proficiency": "Advanced"
+      },
+      {
+        "skill_id": "sql",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "python",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "pandas",
+        "proficiency": "Beginner"
+      }
+    ],
+    "xp": 1820,
+    "completed_courses": [
+      "c2",
+      "c8"
+    ],
+    "completed_projects": [
+      "p8"
+    ],
+    "badges": [
+      "Data Wrangler",
+      "Power BI Novice"
+    ]
+  },
+  {
+    "id": "std-003",
+    "name": "Siddharth Kulkarni",
+    "email": "siddharth.k@vnit.ac.in",
+    "institution": "VNIT, Nagpur",
+    "department": "Electronics & Telecomm",
+    "district": "Nagpur",
+    "target_role": "cloud-engineer",
+    "skills": [
+      {
+        "skill_id": "linux",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "networking",
+        "proficiency": "Advanced"
+      },
+      {
+        "skill_id": "shell",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "git",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "xp": 1200,
+    "completed_courses": [
+      "c12"
+    ],
+    "completed_projects": [],
+    "badges": [
+      "Linux SysAdmin"
+    ]
+  },
+  {
+    "id": "std-004",
+    "name": "Sneha Jadhav",
+    "email": "sneha.jadhav@sppu.ac.in",
+    "institution": "Savitribai Phule Pune University",
+    "department": "Computer Science",
+    "district": "Pune",
+    "target_role": "ai-ml-engineer",
+    "skills": [
+      {
+        "skill_id": "python",
+        "proficiency": "Advanced"
+      },
+      {
+        "skill_id": "scikit-learn",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "sql",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "data science",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "xp": 2100,
+    "completed_courses": [
+      "c2",
+      "c7"
+    ],
+    "completed_projects": [
+      "p3"
+    ],
+    "badges": [
+      "AI Explorer",
+      "Python Pioneer"
+    ]
+  },
+  {
+    "id": "std-005",
+    "name": "Rohan Gaikwad",
+    "email": "rohan.g@gcoea.ac.in",
+    "institution": "Government College of Engineering, Amravati",
+    "department": "Mechanical Engineering",
+    "district": "Amravati",
+    "target_role": "full-stack-developer",
+    "skills": [
+      {
+        "skill_id": "c",
+        "proficiency": "Intermediate"
+      },
+      {
+        "skill_id": "html",
+        "proficiency": "Beginner"
+      },
+      {
+        "skill_id": "css",
+        "proficiency": "Beginner"
+      }
+    ],
+    "xp": 650,
+    "completed_courses": [],
+    "completed_projects": [],
+    "badges": [
+      "Quick Learner"
+    ]
+  }
+]

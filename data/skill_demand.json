@@ -1,0 +1,902 @@
+[
+  {
+    "district": "Pune",
+    "skill_id": "python",
+    "demand_level": "Medium",
+    "demand_score": 67,
+    "growth_rate_pct": 30.5,
+    "open_positions": 1340,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "react",
+    "demand_level": "High",
+    "demand_score": 90,
+    "growth_rate_pct": 22.7,
+    "open_positions": 1216,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "sql",
+    "demand_level": "High",
+    "demand_score": 91,
+    "growth_rate_pct": 31.2,
+    "open_positions": 638,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "aws",
+    "demand_level": "Medium",
+    "demand_score": 65,
+    "growth_rate_pct": 16.4,
+    "open_positions": 1204,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "docker",
+    "demand_level": "High",
+    "demand_score": 80,
+    "growth_rate_pct": 16.4,
+    "open_positions": 360,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "machine learning",
+    "demand_level": "Medium",
+    "demand_score": 67,
+    "growth_rate_pct": 16.7,
+    "open_positions": 627,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "cybersecurity",
+    "demand_level": "High",
+    "demand_score": 91,
+    "growth_rate_pct": 32.0,
+    "open_positions": 1400,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "power bi",
+    "demand_level": "High",
+    "demand_score": 82,
+    "growth_rate_pct": 25.9,
+    "open_positions": 388,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "fastapi",
+    "demand_level": "Medium",
+    "demand_score": 65,
+    "growth_rate_pct": 26.8,
+    "open_positions": 460,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Pune",
+    "skill_id": "ui/ux",
+    "demand_level": "High",
+    "demand_score": 96,
+    "growth_rate_pct": 23.2,
+    "open_positions": 1131,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "python",
+    "demand_level": "High",
+    "demand_score": 97,
+    "growth_rate_pct": 26.7,
+    "open_positions": 933,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "react",
+    "demand_level": "Medium",
+    "demand_score": 72,
+    "growth_rate_pct": 10.5,
+    "open_positions": 685,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "sql",
+    "demand_level": "High",
+    "demand_score": 98,
+    "growth_rate_pct": 22.9,
+    "open_positions": 345,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "aws",
+    "demand_level": "Medium",
+    "demand_score": 65,
+    "growth_rate_pct": 19.0,
+    "open_positions": 1298,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "docker",
+    "demand_level": "Medium",
+    "demand_score": 75,
+    "growth_rate_pct": 15.2,
+    "open_positions": 1497,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "machine learning",
+    "demand_level": "Medium",
+    "demand_score": 72,
+    "growth_rate_pct": 16.7,
+    "open_positions": 425,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "cybersecurity",
+    "demand_level": "High",
+    "demand_score": 94,
+    "growth_rate_pct": 9.1,
+    "open_positions": 285,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "power bi",
+    "demand_level": "High",
+    "demand_score": 96,
+    "growth_rate_pct": 21.0,
+    "open_positions": 237,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "fastapi",
+    "demand_level": "High",
+    "demand_score": 95,
+    "growth_rate_pct": 19.5,
+    "open_positions": 537,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Mumbai City & Suburban",
+    "skill_id": "ui/ux",
+    "demand_level": "Medium",
+    "demand_score": 65,
+    "growth_rate_pct": 16.8,
+    "open_positions": 1209,
+    "primary_industry": "BFSI"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "python",
+    "demand_level": "High",
+    "demand_score": 84,
+    "growth_rate_pct": 9.2,
+    "open_positions": 199,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "react",
+    "demand_level": "High",
+    "demand_score": 80,
+    "growth_rate_pct": 23.2,
+    "open_positions": 1297,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "sql",
+    "demand_level": "High",
+    "demand_score": 88,
+    "growth_rate_pct": 24.8,
+    "open_positions": 1138,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "aws",
+    "demand_level": "High",
+    "demand_score": 93,
+    "growth_rate_pct": 10.2,
+    "open_positions": 1165,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "docker",
+    "demand_level": "Medium",
+    "demand_score": 68,
+    "growth_rate_pct": 9.7,
+    "open_positions": 1174,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "machine learning",
+    "demand_level": "High",
+    "demand_score": 78,
+    "growth_rate_pct": 28.2,
+    "open_positions": 1032,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "cybersecurity",
+    "demand_level": "Medium",
+    "demand_score": 71,
+    "growth_rate_pct": 22.3,
+    "open_positions": 687,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "power bi",
+    "demand_level": "Medium",
+    "demand_score": 72,
+    "growth_rate_pct": 19.5,
+    "open_positions": 525,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "fastapi",
+    "demand_level": "High",
+    "demand_score": 97,
+    "growth_rate_pct": 11.3,
+    "open_positions": 634,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nagpur",
+    "skill_id": "ui/ux",
+    "demand_level": "High",
+    "demand_score": 98,
+    "growth_rate_pct": 19.3,
+    "open_positions": 584,
+    "primary_industry": "IT & Logistics"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "python",
+    "demand_level": "High",
+    "demand_score": 76,
+    "growth_rate_pct": 18.6,
+    "open_positions": 213,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "react",
+    "demand_level": "Medium",
+    "demand_score": 75,
+    "growth_rate_pct": 23.9,
+    "open_positions": 55,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "sql",
+    "demand_level": "High",
+    "demand_score": 78,
+    "growth_rate_pct": 22.2,
+    "open_positions": 147,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "aws",
+    "demand_level": "Medium",
+    "demand_score": 60,
+    "growth_rate_pct": 13.5,
+    "open_positions": 175,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "docker",
+    "demand_level": "Medium",
+    "demand_score": 58,
+    "growth_rate_pct": 8.5,
+    "open_positions": 117,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "machine learning",
+    "demand_level": "Medium",
+    "demand_score": 55,
+    "growth_rate_pct": 27.3,
+    "open_positions": 204,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "cybersecurity",
+    "demand_level": "Medium",
+    "demand_score": 48,
+    "growth_rate_pct": 26.9,
+    "open_positions": 108,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "power bi",
+    "demand_level": "High",
+    "demand_score": 83,
+    "growth_rate_pct": 15.2,
+    "open_positions": 192,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "fastapi",
+    "demand_level": "Medium",
+    "demand_score": 59,
+    "growth_rate_pct": 22.9,
+    "open_positions": 125,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Nashik",
+    "skill_id": "ui/ux",
+    "demand_level": "Medium",
+    "demand_score": 68,
+    "growth_rate_pct": 20.3,
+    "open_positions": 107,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "python",
+    "demand_level": "High",
+    "demand_score": 81,
+    "growth_rate_pct": 16.5,
+    "open_positions": 238,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "react",
+    "demand_level": "Medium",
+    "demand_score": 70,
+    "growth_rate_pct": 26.3,
+    "open_positions": 132,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "sql",
+    "demand_level": "Medium",
+    "demand_score": 71,
+    "growth_rate_pct": 27.4,
+    "open_positions": 162,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "aws",
+    "demand_level": "High",
+    "demand_score": 83,
+    "growth_rate_pct": 18.7,
+    "open_positions": 129,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "docker",
+    "demand_level": "Medium",
+    "demand_score": 58,
+    "growth_rate_pct": 14.9,
+    "open_positions": 60,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "machine learning",
+    "demand_level": "Medium",
+    "demand_score": 45,
+    "growth_rate_pct": 31.8,
+    "open_positions": 117,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "cybersecurity",
+    "demand_level": "Medium",
+    "demand_score": 56,
+    "growth_rate_pct": 9.0,
+    "open_positions": 231,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "power bi",
+    "demand_level": "Medium",
+    "demand_score": 47,
+    "growth_rate_pct": 31.1,
+    "open_positions": 100,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "fastapi",
+    "demand_level": "Medium",
+    "demand_score": 56,
+    "growth_rate_pct": 17.3,
+    "open_positions": 216,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Chhatrapati Sambhajinagar",
+    "skill_id": "ui/ux",
+    "demand_level": "Medium",
+    "demand_score": 65,
+    "growth_rate_pct": 29.7,
+    "open_positions": 86,
+    "primary_industry": "Automotive"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "python",
+    "demand_level": "Medium",
+    "demand_score": 67,
+    "growth_rate_pct": 29.3,
+    "open_positions": 1266,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "react",
+    "demand_level": "High",
+    "demand_score": 91,
+    "growth_rate_pct": 25.0,
+    "open_positions": 1021,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "sql",
+    "demand_level": "Medium",
+    "demand_score": 70,
+    "growth_rate_pct": 18.2,
+    "open_positions": 993,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "aws",
+    "demand_level": "High",
+    "demand_score": 79,
+    "growth_rate_pct": 10.2,
+    "open_positions": 210,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "docker",
+    "demand_level": "High",
+    "demand_score": 87,
+    "growth_rate_pct": 14.4,
+    "open_positions": 1149,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "machine learning",
+    "demand_level": "High",
+    "demand_score": 84,
+    "growth_rate_pct": 15.2,
+    "open_positions": 958,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "cybersecurity",
+    "demand_level": "High",
+    "demand_score": 77,
+    "growth_rate_pct": 20.7,
+    "open_positions": 1325,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "power bi",
+    "demand_level": "Medium",
+    "demand_score": 69,
+    "growth_rate_pct": 14.2,
+    "open_positions": 962,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "fastapi",
+    "demand_level": "High",
+    "demand_score": 95,
+    "growth_rate_pct": 22.0,
+    "open_positions": 139,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Thane",
+    "skill_id": "ui/ux",
+    "demand_level": "Medium",
+    "demand_score": 67,
+    "growth_rate_pct": 28.9,
+    "open_positions": 1205,
+    "primary_industry": "IT & Software"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "python",
+    "demand_level": "Medium",
+    "demand_score": 48,
+    "growth_rate_pct": 21.4,
+    "open_positions": 162,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "react",
+    "demand_level": "Medium",
+    "demand_score": 52,
+    "growth_rate_pct": 14.5,
+    "open_positions": 122,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "sql",
+    "demand_level": "High",
+    "demand_score": 77,
+    "growth_rate_pct": 27.7,
+    "open_positions": 41,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "aws",
+    "demand_level": "Medium",
+    "demand_score": 45,
+    "growth_rate_pct": 20.8,
+    "open_positions": 87,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "docker",
+    "demand_level": "Medium",
+    "demand_score": 68,
+    "growth_rate_pct": 11.7,
+    "open_positions": 83,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "machine learning",
+    "demand_level": "Medium",
+    "demand_score": 65,
+    "growth_rate_pct": 18.7,
+    "open_positions": 187,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "cybersecurity",
+    "demand_level": "Medium",
+    "demand_score": 71,
+    "growth_rate_pct": 30.1,
+    "open_positions": 144,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "power bi",
+    "demand_level": "Medium",
+    "demand_score": 71,
+    "growth_rate_pct": 29.0,
+    "open_positions": 80,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "fastapi",
+    "demand_level": "Medium",
+    "demand_score": 59,
+    "growth_rate_pct": 19.9,
+    "open_positions": 48,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Kolhapur",
+    "skill_id": "ui/ux",
+    "demand_level": "Medium",
+    "demand_score": 55,
+    "growth_rate_pct": 13.0,
+    "open_positions": 81,
+    "primary_industry": "Foundry & Casting"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "python",
+    "demand_level": "Medium",
+    "demand_score": 57,
+    "growth_rate_pct": 28.8,
+    "open_positions": 48,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "react",
+    "demand_level": "High",
+    "demand_score": 84,
+    "growth_rate_pct": 16.1,
+    "open_positions": 165,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "sql",
+    "demand_level": "High",
+    "demand_score": 79,
+    "growth_rate_pct": 16.8,
+    "open_positions": 99,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "aws",
+    "demand_level": "Medium",
+    "demand_score": 48,
+    "growth_rate_pct": 28.3,
+    "open_positions": 165,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "docker",
+    "demand_level": "Medium",
+    "demand_score": 62,
+    "growth_rate_pct": 14.4,
+    "open_positions": 81,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "machine learning",
+    "demand_level": "Medium",
+    "demand_score": 45,
+    "growth_rate_pct": 27.2,
+    "open_positions": 62,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "cybersecurity",
+    "demand_level": "High",
+    "demand_score": 76,
+    "growth_rate_pct": 26.0,
+    "open_positions": 223,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "power bi",
+    "demand_level": "Medium",
+    "demand_score": 72,
+    "growth_rate_pct": 13.7,
+    "open_positions": 132,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "fastapi",
+    "demand_level": "Medium",
+    "demand_score": 68,
+    "growth_rate_pct": 24.8,
+    "open_positions": 53,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Solapur",
+    "skill_id": "ui/ux",
+    "demand_level": "Medium",
+    "demand_score": 66,
+    "growth_rate_pct": 9.5,
+    "open_positions": 111,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "python",
+    "demand_level": "Medium",
+    "demand_score": 67,
+    "growth_rate_pct": 18.6,
+    "open_positions": 74,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "react",
+    "demand_level": "Medium",
+    "demand_score": 58,
+    "growth_rate_pct": 10.3,
+    "open_positions": 243,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "sql",
+    "demand_level": "Medium",
+    "demand_score": 47,
+    "growth_rate_pct": 11.3,
+    "open_positions": 144,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "aws",
+    "demand_level": "Medium",
+    "demand_score": 75,
+    "growth_rate_pct": 32.2,
+    "open_positions": 91,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "docker",
+    "demand_level": "High",
+    "demand_score": 81,
+    "growth_rate_pct": 30.2,
+    "open_positions": 124,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "machine learning",
+    "demand_level": "Medium",
+    "demand_score": 60,
+    "growth_rate_pct": 30.0,
+    "open_positions": 123,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "cybersecurity",
+    "demand_level": "High",
+    "demand_score": 82,
+    "growth_rate_pct": 24.1,
+    "open_positions": 245,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "power bi",
+    "demand_level": "Medium",
+    "demand_score": 47,
+    "growth_rate_pct": 18.3,
+    "open_positions": 92,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "fastapi",
+    "demand_level": "Medium",
+    "demand_score": 71,
+    "growth_rate_pct": 15.2,
+    "open_positions": 225,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Amravati",
+    "skill_id": "ui/ux",
+    "demand_level": "Medium",
+    "demand_score": 53,
+    "growth_rate_pct": 17.2,
+    "open_positions": 127,
+    "primary_industry": "Textiles"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "python",
+    "demand_level": "High",
+    "demand_score": 80,
+    "growth_rate_pct": 16.7,
+    "open_positions": 227,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "react",
+    "demand_level": "Medium",
+    "demand_score": 58,
+    "growth_rate_pct": 8.9,
+    "open_positions": 43,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "sql",
+    "demand_level": "High",
+    "demand_score": 79,
+    "growth_rate_pct": 24.4,
+    "open_positions": 189,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "aws",
+    "demand_level": "Medium",
+    "demand_score": 56,
+    "growth_rate_pct": 11.1,
+    "open_positions": 224,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "docker",
+    "demand_level": "Medium",
+    "demand_score": 70,
+    "growth_rate_pct": 24.9,
+    "open_positions": 229,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "machine learning",
+    "demand_level": "Medium",
+    "demand_score": 57,
+    "growth_rate_pct": 18.4,
+    "open_positions": 201,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "cybersecurity",
+    "demand_level": "Medium",
+    "demand_score": 46,
+    "growth_rate_pct": 18.6,
+    "open_positions": 67,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "power bi",
+    "demand_level": "Medium",
+    "demand_score": 73,
+    "growth_rate_pct": 10.2,
+    "open_positions": 187,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "fastapi",
+    "demand_level": "Medium",
+    "demand_score": 51,
+    "growth_rate_pct": 21.7,
+    "open_positions": 228,
+    "primary_industry": "Agriculture"
+  },
+  {
+    "district": "Nanded",
+    "skill_id": "ui/ux",
+    "demand_level": "High",
+    "demand_score": 84,
+    "growth_rate_pct": 31.1,
+    "open_positions": 192,
+    "primary_industry": "Agriculture"
+  }
+]

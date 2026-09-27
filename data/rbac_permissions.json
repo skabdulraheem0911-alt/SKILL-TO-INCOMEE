@@ -1,0 +1,86 @@
+{
+  "government_admin": {
+    "title": "Government / Admin",
+    "description": "National & District Skill Intelligence, User Governance, System Policy, Anomaly Detection",
+    "permissions": {
+      "view": true,
+      "create": true,
+      "edit": true,
+      "delete": true,
+      "approve": true,
+      "export": true,
+      "manage_users": true,
+      "manage_roles": true
+    }
+  },
+  "skill_reviewer": {
+    "title": "Skill Authority / Reviewer",
+    "description": "Curriculum Evaluation, Skill Framework Accreditation, Quality Standards Validation",
+    "permissions": {
+      "view": true,
+      "create": false,
+      "edit": false,
+      "delete": false,
+      "approve": true,
+      "export": true,
+      "manage_users": false,
+      "manage_roles": false
+    }
+  },
+  "industry_employer": {
+    "title": "Industry / Employer",
+    "description": "Publish Skill-Weighted Job Openings, Search & Compare Candidates, Validate Curricula",
+    "permissions": {
+      "view": true,
+      "create": true,
+      "edit": true,
+      "delete": true,
+      "approve": false,
+      "export": true,
+      "manage_users": false,
+      "manage_roles": false
+    }
+  },
+  "training_institute": {
+    "title": "Training Institute / College",
+    "description": "Department-wide Skill Gaps vs Demand, Curriculum Submissions, Student Aggregates",
+    "permissions": {
+      "view": true,
+      "create": true,
+      "edit": true,
+      "delete": true,
+      "approve": false,
+      "export": true,
+      "manage_users": true,
+      "manage_roles": false
+    }
+  },
+  "trainer_faculty": {
+    "title": "Trainer / Faculty",
+    "description": "Manage Assigned Course Batches, Track Student Milestone Progress, Assessment Logs",
+    "permissions": {
+      "view": true,
+      "create": true,
+      "edit": true,
+      "delete": false,
+      "approve": false,
+      "export": false,
+      "manage_users": false,
+      "manage_roles": false
+    }
+  },
+  "student": {
+    "title": "Student / Trainee",
+    "description": "Skill Profile, Transparent Gap Analysis, Career Roadmap, Resume Analyzer, AI Assistant",
+    "permissions": {
+      "view": true,
+      "create": true,
+      "edit": true,
+      "delete": false,
+      "approve": false,
+      "export": false,
+      "manage_users": false,
+      "manage_roles": false
+    }
+  }
+}

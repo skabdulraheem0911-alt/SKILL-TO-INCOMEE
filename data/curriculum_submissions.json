@@ -1,0 +1,58 @@
+[
+  {
+    "id": "curr-01",
+    "institute": "COEP Technological University, Pune",
+    "department": "Computer Engineering",
+    "proposed_title": "AI & Cloud Integration Elective 2026",
+    "status": "Approved",
+    "submitted_by": "Dr. S. R. Joshi (HOD)",
+    "skills_covered": [
+      "aws",
+      "fastapi",
+      "docker",
+      "llm"
+    ],
+    "industry_partner": "Persistent Systems",
+    "justification": "Addresses 40% local industry demand increase in cloud-native AI engineering in Pune Hinjewadi belt.",
+    "comments": [
+      "[APPROVED by SKILL_REVIEWER]: Test comment"
+    ]
+  },
+  {
+    "id": "curr-02",
+    "institute": "Government Polytechnic, Nashik",
+    "department": "Information Technology",
+    "proposed_title": "Advanced Web Architectures & React.js",
+    "status": "Approved",
+    "submitted_by": "Prof. Anjali Shinde",
+    "skills_covered": [
+      "react",
+      "tailwind",
+      "rest apis"
+    ],
+    "industry_partner": "Nashik IT Association",
+    "justification": "Updates legacy ASP/PHP curriculum to modern full stack standards.",
+    "comments": [
+      "Approved by Skill Authority. Aligns with NSQF Level 6 standards."
+    ]
+  },
+  {
+    "id": "curr-03",
+    "institute": "VNIT Nagpur",
+    "department": "Electrical & IT",
+    "proposed_title": "Industrial IoT & Edge Computing Module",
+    "status": "Under Review",
+    "submitted_by": "Dr. M. G. Rao",
+    "skills_covered": [
+      "python",
+      "c",
+      "networking",
+      "aws"
+    ],
+    "industry_partner": "Tata Technologies",
+    "justification": "Prepares engineers for smart manufacturing plants in Nagpur MIDC corridor.",
+    "comments": [
+      "Requesting industry validation letter from partner firm."
+    ]
+  }
+]

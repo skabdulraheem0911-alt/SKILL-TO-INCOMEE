@@ -1,0 +1,181 @@
+[
+  {
+    "id": "p1",
+    "title": "AI Career Intelligence Dashboard",
+    "missing_skill_id": "react",
+    "technologies": [
+      "React",
+      "Tailwind CSS",
+      "Recharts",
+      "Lucide Icons"
+    ],
+    "difficulty": "Intermediate",
+    "duration": "3 Weeks",
+    "description": "Interactive career recommendation web application with visual match gauges and roadmap tracking.",
+    "expected_outcome": "Production-ready frontend portfolio app demonstrating state management, chart visualizations, and responsive layout."
+  },
+  {
+    "id": "p2",
+    "title": "Student Placement Analytics & Job Portal",
+    "missing_skill_id": "sql",
+    "technologies": [
+      "PostgreSQL",
+      "SQL",
+      "Python",
+      "FastAPI"
+    ],
+    "difficulty": "Beginner-Intermediate",
+    "duration": "2 Weeks",
+    "description": "Relational database schema modeling student applications, placements, and department analytics.",
+    "expected_outcome": "Normalized 3NF relational database with indexing, analytical views, and optimized queries."
+  },
+  {
+    "id": "p3",
+    "title": "Student Skill Prediction & Placement Model",
+    "missing_skill_id": "machine learning",
+    "technologies": [
+      "Python",
+      "Scikit-Learn",
+      "Pandas",
+      "Matplotlib"
+    ],
+    "difficulty": "Intermediate",
+    "duration": "4 Weeks",
+    "description": "Supervised classification model predicting student placement probability based on skill profile and project scores.",
+    "expected_outcome": "Trained ML model achieving >85% accuracy with feature importance analysis and model serialization."
+  },
+  {
+    "id": "p4",
+    "title": "Secure Zero-Trust Authentication Microservice",
+    "missing_skill_id": "cybersecurity",
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "JWT",
+      "OAuth2",
+      "Bcrypt"
+    ],
+    "difficulty": "Intermediate",
+    "duration": "2 Weeks",
+    "description": "Enterprise-grade authentication service featuring RBAC permissions, audit logging, and token rotation.",
+    "expected_outcome": "Production microservice meeting OWASP security recommendations with automated unit test suite."
+  },
+  {
+    "id": "p5",
+    "title": "Automated Multi-Tier Cloud Deployment Infrastructure",
+    "missing_skill_id": "aws",
+    "technologies": [
+      "AWS EC2",
+      "AWS S3",
+      "VPC",
+      "Route 53"
+    ],
+    "difficulty": "Intermediate",
+    "duration": "3 Weeks",
+    "description": "Highly available cloud architecture hosting a web app across public and private subnets with automated backups.",
+    "expected_outcome": "Verified AWS infrastructure architecture with security group hardening and cost monitoring."
+  },
+  {
+    "id": "p6",
+    "title": "Containerized Microservices Cluster with Docker & K8s",
+    "missing_skill_id": "docker",
+    "technologies": [
+      "Docker",
+      "Docker Compose",
+      "Kubernetes",
+      "Nginx"
+    ],
+    "difficulty": "Intermediate-Advanced",
+    "duration": "3 Weeks",
+    "description": "Multi-container setup isolating frontend, backend API, and database services with health probes.",
+    "expected_outcome": "Production Dockerfiles and Kubernetes manifests with rolling deployment strategies."
+  },
+  {
+    "id": "p7",
+    "title": "Automated CI/CD Delivery Pipeline with GitHub Actions",
+    "missing_skill_id": "ci/cd",
+    "technologies": [
+      "GitHub Actions",
+      "Docker",
+      "PyTest",
+      "YAML"
+    ],
+    "difficulty": "Intermediate",
+    "duration": "2 Weeks",
+    "description": "Continuous integration pipeline running automated tests, linter checks, and container image builds on every pull request.",
+    "expected_outcome": "Zero-downtime automated deployment workflow for staging and production servers."
+  },
+  {
+    "id": "p8",
+    "title": "Maharashtra Regional Skill Intelligence Heatmap",
+    "missing_skill_id": "power bi",
+    "technologies": [
+      "Power BI",
+      "DAX",
+      "Excel",
+      "Data Modeling"
+    ],
+    "difficulty": "Intermediate",
+    "duration": "2 Weeks",
+    "description": "Interactive district-level business intelligence dashboard mapping skill shortages across Maharashtra industries.",
+    "expected_outcome": "Published executive BI report with drill-through maps and trend forecasting."
+  },
+  {
+    "id": "p9",
+    "title": "Enterprise Design System & Figma Component Library",
+    "missing_skill_id": "figma",
+    "technologies": [
+      "Figma",
+      "Auto-layout",
+      "Design Tokens"
+    ],
+    "difficulty": "Beginner-Intermediate",
+    "duration": "2 Weeks",
+    "description": "Comprehensive UI design system with accessible color contrasts, responsive typography, and stateful components.",
+    "expected_outcome": "Interactive Figma prototype and exported design token specification for engineering teams."
+  },
+  {
+    "id": "p10",
+    "title": "High-Throughput Asynchronous REST API Engine",
+    "missing_skill_id": "fastapi",
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "Pydantic",
+      "SQLAlchemy"
+    ],
+    "difficulty": "Intermediate",
+    "duration": "2 Weeks",
+    "description": "Scalable REST API handling structured requests with automatic Swagger docs and query filtering.",
+    "expected_outcome": "Tested API service delivering sub-20ms response latencies under concurrent load."
+  },
+  {
+    "id": "p11",
+    "title": "Grounded Career Counseling RAG Chatbot",
+    "missing_skill_id": "llm",
+    "technologies": [
+      "Python",
+      "LangChain",
+      "Vector Embeddings",
+      "FastAPI"
+    ],
+    "difficulty": "Advanced",
+    "duration": "3 Weeks",
+    "description": "Retrieval-augmented chatbot answering student queries based strictly on government training curricula and job catalogs.",
+    "expected_outcome": "Hallucination-resistant chatbot pipeline with verified source citations."
+  },
+  {
+    "id": "p12",
+    "title": "Distributed In-Memory Cache & Session Manager",
+    "missing_skill_id": "redis",
+    "technologies": [
+      "Redis",
+      "Node.js",
+      "Express"
+    ],
+    "difficulty": "Intermediate",
+    "duration": "1 Week",
+    "description": "High-performance caching layer reducing relational database queries by 80% with TTL expiration.",
+    "expected_outcome": "Measurable benchmark demonstrating 10x throughput improvement."
+  }
+]

@@ -1,0 +1,686 @@
+[
+  {
+    "id": "python",
+    "name": "Python",
+    "category": "Languages",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "High-level general-purpose programming language for backend, AI, and data science."
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "category": "Languages",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Core language for interactive web and browser scripting."
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Languages",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Typed superset of JavaScript enhancing code quality in large applications."
+  },
+  {
+    "id": "java",
+    "name": "Java",
+    "category": "Languages",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Object-oriented language powering enterprise applications and Android."
+  },
+  {
+    "id": "c",
+    "name": "C",
+    "category": "Languages",
+    "difficulty": "Beginner",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Foundational low-level systems programming language."
+  },
+  {
+    "id": "c++",
+    "name": "C++",
+    "category": "Languages",
+    "difficulty": "Intermediate-Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "High-performance systems, game engines, and competitive programming language."
+  },
+  {
+    "id": "c#",
+    "name": "C#",
+    "category": "Languages",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Modern multi-paradigm language for .NET ecosystem and Unity."
+  },
+  {
+    "id": "go",
+    "name": "Go",
+    "category": "Languages",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Concise language designed by Google for scalable cloud microservices."
+  },
+  {
+    "id": "rust",
+    "name": "Rust",
+    "category": "Languages",
+    "difficulty": "Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Emerging",
+    "description": "Memory-safe systems programming language without garbage collection."
+  },
+  {
+    "id": "kotlin",
+    "name": "Kotlin",
+    "category": "Languages",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Growing",
+    "description": "Modern language for Android development and JVM applications."
+  },
+  {
+    "id": "swift",
+    "name": "Swift",
+    "category": "Languages",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Apple's native programming language for iOS and macOS apps."
+  },
+  {
+    "id": "php",
+    "name": "PHP",
+    "category": "Languages",
+    "difficulty": "Beginner",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Server-side scripting language powering web CMS and legacy backends."
+  },
+  {
+    "id": "r",
+    "name": "R",
+    "category": "Languages",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Specialized statistical computing and data graphics language."
+  },
+  {
+    "id": "dart",
+    "name": "Dart",
+    "category": "Languages",
+    "difficulty": "Beginner",
+    "industry_demand": "Medium",
+    "emerging_status": "Growing",
+    "description": "Client-optimized language for multi-platform apps via Flutter."
+  },
+  {
+    "id": "shell",
+    "name": "Shell Scripting",
+    "category": "Languages",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Bash and command-line automation for Linux administration."
+  },
+  {
+    "id": "html",
+    "name": "HTML5",
+    "category": "Web/Frontend",
+    "difficulty": "Beginner",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Standard markup language for web document structure."
+  },
+  {
+    "id": "css",
+    "name": "CSS3",
+    "category": "Web/Frontend",
+    "difficulty": "Beginner",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Style sheet language describing visual presentation of web pages."
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "category": "Web/Frontend",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Popular declarative component-based UI library developed by Meta."
+  },
+  {
+    "id": "next.js",
+    "name": "Next.js",
+    "category": "Web/Frontend",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Full-stack React framework featuring server-side rendering and static export."
+  },
+  {
+    "id": "angular",
+    "name": "Angular",
+    "category": "Web/Frontend",
+    "difficulty": "Advanced",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Batteries-included TypeScript web framework for enterprise frontends."
+  },
+  {
+    "id": "vue",
+    "name": "Vue.js",
+    "category": "Web/Frontend",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Progressive, approachable framework for building user interfaces."
+  },
+  {
+    "id": "tailwind",
+    "name": "Tailwind CSS",
+    "category": "Web/Frontend",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Utility-first CSS framework for rapid modern UI development."
+  },
+  {
+    "id": "bootstrap",
+    "name": "Bootstrap",
+    "category": "Web/Frontend",
+    "difficulty": "Beginner",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Responsive front-end toolkit for mobile-first responsive sites."
+  },
+  {
+    "id": "redux",
+    "name": "Redux Toolkit",
+    "category": "Web/Frontend",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Predictable state container for complex frontend workflows."
+  },
+  {
+    "id": "node.js",
+    "name": "Node.js",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Asynchronous event-driven JavaScript runtime built on Chrome's V8 engine."
+  },
+  {
+    "id": "express",
+    "name": "Express.js",
+    "category": "Backend",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Minimalist web framework for Node.js REST APIs."
+  },
+  {
+    "id": "django",
+    "name": "Django",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "High-level Python web framework encouraging clean, pragmatic design."
+  },
+  {
+    "id": "fastapi",
+    "name": "FastAPI",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Emerging",
+    "description": "Modern high-performance Python web framework based on standard type hints."
+  },
+  {
+    "id": "flask",
+    "name": "Flask",
+    "category": "Backend",
+    "difficulty": "Beginner",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Lightweight Python WSGI micro web framework."
+  },
+  {
+    "id": "spring",
+    "name": "Spring Boot",
+    "category": "Backend",
+    "difficulty": "Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Enterprise microservice framework for Java ecosystem."
+  },
+  {
+    "id": "rest apis",
+    "name": "REST APIs",
+    "category": "Backend",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Architectural style for designing networked services and API contracts."
+  },
+  {
+    "id": "graphql",
+    "name": "GraphQL",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Growing",
+    "description": "Query language for APIs offering declarative data fetching."
+  },
+  {
+    "id": "microservices",
+    "name": "Microservices",
+    "category": "Backend",
+    "difficulty": "Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Architectural approach designing applications as collections of small autonomous services."
+  },
+  {
+    "id": "sql",
+    "name": "SQL",
+    "category": "Databases",
+    "difficulty": "Beginner",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Standard declarative query language for relational database management."
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "category": "Databases",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Advanced open-source object-relational database with strong JSON support."
+  },
+  {
+    "id": "mysql",
+    "name": "MySQL",
+    "category": "Databases",
+    "difficulty": "Beginner",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Widely deployed relational database management system."
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "category": "Databases",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Leading document-oriented NoSQL database for JSON schema flexibility."
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "category": "Databases",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "In-memory data structure store used as a cache, database, and message broker."
+  },
+  {
+    "id": "elasticsearch",
+    "name": "Elasticsearch",
+    "category": "Databases",
+    "difficulty": "Intermediate-Advanced",
+    "industry_demand": "Medium",
+    "emerging_status": "Growing",
+    "description": "Distributed search and analytics engine for text indexing and logs."
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "category": "Cloud/DevOps",
+    "difficulty": "Intermediate-Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Comprehensive Amazon Web Services cloud infrastructure suite."
+  },
+  {
+    "id": "azure",
+    "name": "Azure",
+    "category": "Cloud/DevOps",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Microsoft's cloud platform for enterprise hosting and hybrid compute."
+  },
+  {
+    "id": "gcp",
+    "name": "Google Cloud (GCP)",
+    "category": "Cloud/DevOps",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Growing",
+    "description": "Google's cloud computing services suite emphasizing big data and ML."
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "category": "Cloud/DevOps",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Platform for developing, shipping, and running applications in lightweight containers."
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "category": "Cloud/DevOps",
+    "difficulty": "Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Container orchestration system for automating containerized software deployment."
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "category": "Cloud/DevOps",
+    "difficulty": "Beginner",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Distributed version control system for tracking changes in source code."
+  },
+  {
+    "id": "github",
+    "name": "GitHub & CI/CD",
+    "category": "Cloud/DevOps",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Code hosting platform with integrated continuous integration workflows."
+  },
+  {
+    "id": "linux",
+    "name": "Linux OS",
+    "category": "Cloud/DevOps",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Open-source Unix-like operating system powering cloud servers."
+  },
+  {
+    "id": "terraform",
+    "name": "Terraform",
+    "category": "Cloud/DevOps",
+    "difficulty": "Intermediate-Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Infrastructure as code tool for provisioning multi-cloud resources."
+  },
+  {
+    "id": "ci/cd",
+    "name": "CI/CD Pipelines",
+    "category": "Cloud/DevOps",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Automated build, test, and release deployment practices."
+  },
+  {
+    "id": "excel",
+    "name": "Advanced Excel",
+    "category": "Data & Analytics",
+    "difficulty": "Beginner",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Spreadsheet calculations, pivot tables, and analytical formulas."
+  },
+  {
+    "id": "power bi",
+    "name": "Power BI",
+    "category": "Data & Analytics",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Business analytics service by Microsoft delivering interactive dashboards."
+  },
+  {
+    "id": "tableau",
+    "name": "Tableau",
+    "category": "Data & Analytics",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "Data visualization tool focused on business intelligence reports."
+  },
+  {
+    "id": "pandas",
+    "name": "Pandas",
+    "category": "Data & Analytics",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Python data manipulation and numerical analysis library."
+  },
+  {
+    "id": "numpy",
+    "name": "NumPy",
+    "category": "Data & Analytics",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Fundamental scientific computing package for Python array manipulation."
+  },
+  {
+    "id": "spark",
+    "name": "Apache Spark",
+    "category": "Data & Analytics",
+    "difficulty": "Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Unified analytics engine for large-scale distributed data processing."
+  },
+  {
+    "id": "kafka",
+    "name": "Apache Kafka",
+    "category": "Data & Analytics",
+    "difficulty": "Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Distributed event store and stream-processing platform."
+  },
+  {
+    "id": "data science",
+    "name": "Data Science Foundations",
+    "category": "Data & Analytics",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Statistical inference, feature engineering, and exploratory data analysis."
+  },
+  {
+    "id": "machine learning",
+    "name": "Machine Learning",
+    "category": "AI/ML",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Algorithmic modeling allowing computers to learn patterns from training data."
+  },
+  {
+    "id": "deep learning",
+    "name": "Deep Learning",
+    "category": "AI/ML",
+    "difficulty": "Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Artificial neural networks with multiple layers for perceptual computing."
+  },
+  {
+    "id": "tensorflow",
+    "name": "TensorFlow",
+    "category": "AI/ML",
+    "difficulty": "Intermediate-Advanced",
+    "industry_demand": "Medium",
+    "emerging_status": "Established",
+    "description": "End-to-end open source platform for machine learning by Google."
+  },
+  {
+    "id": "pytorch",
+    "name": "PyTorch",
+    "category": "AI/ML",
+    "difficulty": "Intermediate-Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Dynamic tensor framework optimized for deep learning research and production."
+  },
+  {
+    "id": "scikit-learn",
+    "name": "Scikit-Learn",
+    "category": "AI/ML",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Standard Python library for classical machine learning algorithms."
+  },
+  {
+    "id": "nlp",
+    "name": "Natural Language Processing (NLP)",
+    "category": "AI/ML",
+    "difficulty": "Intermediate-Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Techniques for computer comprehension and generation of human languages."
+  },
+  {
+    "id": "llm",
+    "name": "LLMs & Generative AI",
+    "category": "AI/ML",
+    "difficulty": "Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Emerging",
+    "description": "Prompt engineering, RAG pipelines, fine-tuning, and LLM orchestration."
+  },
+  {
+    "id": "computer vision",
+    "name": "Computer Vision",
+    "category": "AI/ML",
+    "difficulty": "Advanced",
+    "industry_demand": "Medium",
+    "emerging_status": "Growing",
+    "description": "Image and video understanding using neural convolutions and OpenCV."
+  },
+  {
+    "id": "cybersecurity",
+    "name": "Cybersecurity Foundations",
+    "category": "Security & Infra",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Defensive controls protecting digital systems, networks, and confidential data."
+  },
+  {
+    "id": "networking",
+    "name": "Computer Networking",
+    "category": "Security & Infra",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "TCP/IP, subnetting, DNS, routing protocols, and OSI model architectures."
+  },
+  {
+    "id": "cloud security",
+    "name": "Cloud Security",
+    "category": "Security & Infra",
+    "difficulty": "Intermediate-Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "IAM role management, VPC boundaries, zero trust, and encryption protocols."
+  },
+  {
+    "id": "ethical hacking",
+    "name": "Ethical Hacking & VAPT",
+    "category": "Security & Infra",
+    "difficulty": "Advanced",
+    "industry_demand": "Medium",
+    "emerging_status": "Growing",
+    "description": "Vulnerability assessment and penetration testing across web and networks."
+  },
+  {
+    "id": "ui/ux",
+    "name": "UI/UX Design",
+    "category": "Design & Soft Skills",
+    "difficulty": "Beginner-Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "User persona analysis, usability testing, and visual interface ergonomics."
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "category": "Design & Soft Skills",
+    "difficulty": "Beginner",
+    "industry_demand": "High",
+    "emerging_status": "Growing",
+    "description": "Collaborative cloud vector design and high-fidelity prototyping software."
+  },
+  {
+    "id": "flutter",
+    "name": "Flutter",
+    "category": "Design & Soft Skills",
+    "difficulty": "Intermediate",
+    "industry_demand": "Medium",
+    "emerging_status": "Growing",
+    "description": "Google's UI toolkit for natively compiled mobile, web, and desktop apps."
+  },
+  {
+    "id": "communication",
+    "name": "Professional Communication",
+    "category": "Design & Soft Skills",
+    "difficulty": "Beginner",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Clear verbal and written articulation, presentation, and technical documentation."
+  },
+  {
+    "id": "leadership",
+    "name": "Leadership",
+    "category": "Design & Soft Skills",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Strategic direction, initiative taking, and cross-functional team mentorship."
+  },
+  {
+    "id": "problem solving",
+    "name": "Analytical Problem Solving",
+    "category": "Design & Soft Skills",
+    "difficulty": "Beginner-Advanced",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Structured root cause analysis, algorithmic logic, and critical reasoning."
+  },
+  {
+    "id": "project management",
+    "name": "Project Management (Agile/Scrum)",
+    "category": "Design & Soft Skills",
+    "difficulty": "Intermediate",
+    "industry_demand": "High",
+    "emerging_status": "Established",
+    "description": "Sprint planning, milestone tracking, Jira management, and Agile ceremonies."
+  }
+]
